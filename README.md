@@ -1,7 +1,7 @@
 感谢您使用Bytelang
 ===
 
-**以下描述中出现的网站均为(https://www.bytelang.com)[https://www.bytelang.com]**
+*以下描述中出现的网站均为[www.bytelang.com](https://www.bytelang.com)*
 
 
 #### 您可以在这个repo issue中提交关于
